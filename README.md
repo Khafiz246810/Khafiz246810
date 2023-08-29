@@ -6,11 +6,9 @@
 <h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2
     <h2 align="left">About me</h2>
 
-###
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HTML<br>🎯 Goals: Learn Cyber security<br>🎲 Fun fact:</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
