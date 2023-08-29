@@ -3,8 +3,8 @@
 **Khafiz246810/Khafiz246810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-<h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2
-    <h2 align="left">About me</h2>
+<h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2>
+    <h3 align="left">😎 About me</h3>
 
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HTML<br>🎯 Goals: Learn Cyber security<br>🎲 Fun fact:</p>
