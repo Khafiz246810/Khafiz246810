@@ -4,6 +4,8 @@
 --->
 
 <h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2>
+
+<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif"  />
     <h3 align="left"> 😎 About me</h3>
 
 
