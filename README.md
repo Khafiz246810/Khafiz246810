@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Khafiz246810/Khafiz246810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,8 +62,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Khafiz246810 /Khafiz246810 /output/snake.svg" alt="Snake animation" />
-
-###
