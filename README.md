@@ -62,6 +62,7 @@
 </div>
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Khafiz246810 /Khafiz246810 /output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://media.tenor.com/kAmODG0Xm60AAAAC/neon-sign-english.gif" />
+</div>
 
