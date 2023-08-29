@@ -5,7 +5,7 @@
 
 <h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2>
 
-<img align="right" height="170" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" />
+<img align="right" height="170" src="![1](https://github.com/Khafiz246810/Khafiz246810/assets/116889143/81af3151-3a86-44a7-b3e8-1f4b697c6133.gif)" />
     <h3 align="left"> 😎 About me</h3>
 
 
