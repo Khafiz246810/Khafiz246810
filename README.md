@@ -62,7 +62,7 @@
 </div>
 
 <br clear="both">
-<div align="center">
-<img src="https://media.tenor.com/kAmODG0Xm60AAAAC/neon-sign-english.gif" />
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a2418f60390643.5a4b910e63f83.gif" />
 </div>
 
