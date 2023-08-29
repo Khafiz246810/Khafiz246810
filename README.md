@@ -7,7 +7,7 @@
     <h3 align="left"> 😎 About me</h3>
 
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HTML<br>🎯 Goals: Learn Cyber security<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HTML<br>🎯 Goals: Learn Cyber security<br></p>
 
 
 <h3 align="left">🛠 Language and tools </h3>
