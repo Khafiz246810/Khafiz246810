@@ -2,10 +2,9 @@
 
 <!--
 **Khafiz246810/Khafiz246810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
 
 <h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Khafiz246810 &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
