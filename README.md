@@ -3,12 +3,14 @@
 **Khafiz246810/Khafiz246810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-<h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2>
+<h2 align="left">Hi 👋! My name is Khafiz ... and I'm a Student ...</h2
+    <h2 align="left">About me</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Khafiz246810 &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+###
 
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning HTML<br>🎯 Goals: Learn Cyber security<br>🎲 Fun fact:</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
